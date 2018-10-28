@@ -16,3 +16,4 @@ remind generative model, introducing at RLI, Generative Model Basic
 4. GAN_basic
 5. GAN_variants
 6. PixelCNN, PixelRNN, Sketch-RNN
+7
